@@ -8,7 +8,7 @@ Link: https://caions.github.io/calcularMediaFBUNI/
 
 Position absolute
 <br>
-Bacground Gradient
+Background Gradient
 
 ### Javascript
 
