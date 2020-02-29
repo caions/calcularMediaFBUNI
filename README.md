@@ -1,11 +1,17 @@
 # calcularMediaFBUNI
 
-https://caions.github.io/calcularMediaFBUNI/
+Link: https://caions.github.io/calcularMediaFBUNI/
 
-## ´Recursos utilizados´
+## `Recursos utilizados`
 
-Css 
+### CSS3
+
 Position absolute
+<br>
 Bacground Gradient
 
+### Javascript
 
+DOM
+
+<img src=imgReadme.png>
