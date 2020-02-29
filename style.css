@@ -1,0 +1,50 @@
+html, body,h1, h2, h3, h4, h5, h6, p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 115%;
+}
+
+body{
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to bottom,#fff, #0055A8);
+  }
+
+p{
+	color: white;
+}
+
+p#texto{
+	position: absolute;
+    top: 60%;
+
+}
+p#texto2{
+	position: absolute;
+    top: 67%;
+}
+
+#form input{
+	display: grid;
+    margin-top: 9px;
+    text-align: center;
+    height: 23px;
+}
+
+input#submit{
+	height: 30px;
+    font-size: initial;
+    width: -webkit-fill-available;
+    color: #060505a3;
+}
+
+img{
+	position: absolute;
+    top: 49%;
+    left: 43%;
+    transform: translate(-50px, -192px);
+}
+	
